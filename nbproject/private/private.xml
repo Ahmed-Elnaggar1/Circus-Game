@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/GameObjectIterator.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/View/ButtonFactory/ButtonCreation.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/View/MenuFrame.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/pics/VerticalRight.png</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Bomb.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/ImageObject.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/View/CircusWorld.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Difficulty.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Shape.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/EasyDifficulty.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/pics/VerticalLeft.png</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/World/Observer.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/World/Game.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Plate.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Apple.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Bonus.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/World/ScoreObserver.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Mango.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/pics/apple1.png</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/HardDifficulty.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/pics/mango2.png</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/GameObjectFactory.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/MediumDifficulty.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/pics/apple2.png</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Player.java</file>
+            <file>file:/D:/Java_Projects/Circus/Clown/src/Model/Bar.java</file>
+        </group>
+    </open-files>
+</project-private>
